@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(80, 80, 80);
+}
+h1{
+    color: rgb(255, 252, 252);
+}
+p{
+    color: white;
+}
+img{
+   border: 3px solid white;
+}
